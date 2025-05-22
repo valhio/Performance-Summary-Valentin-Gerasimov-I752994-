@@ -97,7 +97,7 @@ SAP UI5 and CAP-based application for managing an office space, including featur
     - Frontend: [163 Contributions (out of 230 total) - Accounted for 70.87% of the project commits on Main branch]
     - Backend: [192 Contributions (out of 252 total) - Accounted for 76.19% of the project commits on Main branch]
     - AppRouter: [13 Contributions (out of 17 total) - Accounted for 76.47% of the project commits on Main branch]
-    - Total Contributions: [368 Contributions (out of 499 total) - Accounted for 73.75% of the whole Workspace Assistant project on Main branch. This data is also solely based on commits, although, this should also be done for feature complexity, code quality, lines of code written etc.]
+    - Total Contributions: [368 Contributions (out of 499 total) - Accounted for 73.75% of the whole Workspace Assistant project on Main branch. This data is also solely based on commits, although, this should also be done for feature complexity, code quality, lines of code written etc., preferably by anonymous and unbiased jury]
     > *Note: There is one feature left that cannot be merged due to a CAP issue that could not be resolved by anyone. With this branch the overall contributions is 76.77%*
     
     > *Note: All data above is sourced from Git using: `git shortlog --since=2024-06-06 --until=2025-06-06 -sn` and it includes data only for the `Main` branch*
