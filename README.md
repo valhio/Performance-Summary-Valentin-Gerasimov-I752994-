@@ -121,3 +121,4 @@ A centralized storage for approximately 104 different types of immutable informa
 - [[EASA-33] Only consider relevant search fields of an information object type for searching](https://github.tools.sap/easa/easa-repif/pull/116) - Implements search and filter functionality based on the latest Excel template (-v 16.05.2025) provided by EASA, ensuring that only fields marked as "relevant for search" are considered in $search and $filter operations. It restricts searching and filtering across both Information and History objects.
 - [EASA-223] [SAP Internal] Upgrade to CDS 9 - Currently blocked inside Jira as we are waiting for the new version of CDS to be released.
 - [EASA-219] no restrictions on UAS and UASModels - *Reopened this Issue to add missing tests to separate Issue [[EASA-219]](https://github.tools.sap/easa/easa-repif/pull/104)*
+- [EASA-352] Basic READ OAT field remarkEveryting (PRIV-0I is not shown in the basic-data service
