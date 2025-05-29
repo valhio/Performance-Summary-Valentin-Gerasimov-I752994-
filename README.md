@@ -122,3 +122,5 @@ A centralized storage for approximately 104 different types of immutable informa
 - [EASA-223] [SAP Internal] Upgrade to CDS 9 - Currently blocked inside Jira as we are waiting for the new version of CDS to be released.
 - [EASA-219] no restrictions on UAS and UASModels - *Reopened this Issue to add missing tests to separate Issue [[EASA-219]](https://github.tools.sap/easa/easa-repif/pull/104)*
 - [EASA-352] Basic READ OAT field remarkEveryting (PRIV-0I is not shown in the basic-data service
+- [EASA-356] tenantToNcaMapping test data to be adjusted - Since we implemented EASA-129 the ownerNca is without version. The Version (.xx) should be removed from our test data
+- [EASA-357] A test fails if API-Spec files are missing - Currently, running npm run test:all fails with an error if the OpenAPI specification files are not present in the project.
